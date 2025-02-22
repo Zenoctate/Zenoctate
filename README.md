@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-First time here! Saw youtube tutorials on using github!
-
 Check out these cool open source games!
 
 1. AAAAXY - https://github.com/divVerent/aaaaxy
 2. Pekka Kana 2 - https://github.com/danilolc/pk2
+
+## Email me with PGP!
+
+MyKey.asc

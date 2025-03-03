@@ -9,4 +9,4 @@ Check out these cool open source games!
 
 ## Email me with PGP!
 
-[MyKey.asc](https://github.com/TrinketKite/TrinketKite/blob/main/MyKey.asc)
+[TrinketKite.asc](https://github.com/TrinketKite/TrinketKite/blob/main/TrinketKite.asc)

@@ -9,6 +9,7 @@ Check out these cool open source games!
 An independent web broswer - LadyBird!!
 https://github.com/LadybirdBrowser/ladybird
 
-### Email me with PGP with `My_Key.asc`
-
-[Codeberg](https://codeberg.org/Zenoctate) and [Github](https://github.com/Zenoctate)
+[Codeberg](https://codeberg.org/Zenoctate)  
+[Gitea](https://gitea.com/Zenoctate)  
+[Github](https://github.com/Zenoctate)  
+[Gitlab](https://gitlab.com/Zenoctate)
